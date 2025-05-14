@@ -26,3 +26,12 @@
 > NEURAL NETWORK CALIBRATION...SYNCHRONIZATION COMPLETE
 > SYSTEM LAUNCH..............SUCCESS | ALL SYSTEMS NOMINAL
 ```
+
+## `> DEVELOPER PROFILE`
+
+```
+> POSITION...............Junior Full-Stack Developer  
+> SPECIALIZATION.........Multi-Stack Development  
+> EDUCATION.............Self-Taught (Ongoing)  
+> ENGLISH...............Beginner (A1)
+```
