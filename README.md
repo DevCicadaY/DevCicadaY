@@ -35,3 +35,7 @@
 > EDUCATION.............Self-Taught (Ongoing)  
 > ENGLISH...............Beginner (A1)
 ```
+
+## `> TECHNICAL IMPLANTS`
+
+[![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)
